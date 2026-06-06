@@ -1,8 +1,12 @@
 {
     "name": "mcp-boilerplate",
+    "description": "A modern, production-ready boilerplate for building Model Context Protocol (MCP) servers in TypeScript. Includes HTTP and Stdio transport support, extensible tool architecture, and comprehensive configuration management.",
     "module": "index.ts",
     "type": "module",
     "private": true,
+    "author": {
+        "name": "Romain Pipon"
+    },
     "devDependencies": {
         "@eslint/js": "^10.0.1",
         "@types/bun": "latest",
